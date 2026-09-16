@@ -20,7 +20,6 @@ the Claude Desktop app is open.
 Each run:
 
 1. Reads [`config.json`](config.json) for the configurable session thresholds
-   and [`state.json`](state.json) for what's already been notified.
 2. Calls `get_usage` to read the account's plan limits:
    - the **5-hour limit** window = "session usage"
    - the **Weekly** window(s) = "weekly usage"
