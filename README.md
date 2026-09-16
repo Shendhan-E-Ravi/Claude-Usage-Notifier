@@ -59,7 +59,6 @@ window.
 
 - List scheduled tasks and their last run in the Claude app's task list, or
   ask Claude to "list scheduled tasks."
-- `state.json` shows what's already been notified for the current window.
 
 ## Uninstall
 
